@@ -1,0 +1,7 @@
+streamlit
+pytrends
+pandas
+plotly
+requests
+beautifulsoup4
+playwright
